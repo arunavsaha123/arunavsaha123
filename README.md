@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arunav Saha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Chat App**
+- 🔭 I’m currently working on **Whiteboard App**
 
 - 📫 How to reach me **arunavsaha984@gmail.com**
 
